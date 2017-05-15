@@ -1,0 +1,24 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It makes a repository that is ready to accept files. To manage all the files you will have in your project
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+staging area is useful for making commits that are logical chunks. So in the case of web development you may need to change 3 files for one logical change. In that case, the commit relates to the logical change rather than just a file change.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+Add files to the stating area and then commit after.
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+How do the diagrams help you visualize the branch structure?
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
+manually?
